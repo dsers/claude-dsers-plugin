@@ -10,7 +10,7 @@
     {
       "name": "dsers-dropshipping-automation",
       "description": "Connect your favorite AI client to DSers and move from product discovery to listings, store operations, orders, fulfillment, and delivery tracking — all in one conversation.",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "source": "./",
       "author": {
         "name": "DSers",
@@ -26,6 +26,16 @@
         "dropshipping",
         "dropship",
         "dropshipper",
+        "product-sourcing",
+        "product-research",
+        "suppliers",
+        "find-suppliers",
+        "supplier-mapping",
+        "auto-order",
+        "order-automation",
+        "bulk-order",
+        "order-fulfillment",
+        "order-tracking",
         "ecommerce",
         "mcp",
         "shopify",
@@ -37,18 +47,13 @@
         "walmart",
         "big-cartel",
         "jumpseller",
-        "cartpanda",
-        "square",
-        "ecwid",
         "bigcommerce",
-        "squarespace",
         "shopline",
         "lpqv",
-        "magento",
-        "genstore",
         "aliexpress",
         "alibaba",
-        "1688"
+        "1688",
+        "dvan"
       ]
     }
   ]

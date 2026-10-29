@@ -5,7 +5,7 @@ license: MIT
 compatibility: "Requires the DSers connector (https://ai.dsers.com/mcp) and a DSers plan that includes MCP Connection. AI Mapping uses AI Credits."
 metadata:
   author: DSers
-  version: "0.1.2"
+  version: "0.1.3"
 ---
 
 # Supplier mapping
