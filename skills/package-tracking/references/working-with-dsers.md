@@ -42,7 +42,6 @@ A DSers error has a `code`, a `message`, a `retryable` flag, and often a `hint`.
 | `VALIDATION_ERROR` | Fix the arguments using the message and hint. Never resend the same arguments. |
 | `NOT_FOUND` | The record does not exist in this account, or the ID came from somewhere else. Look it up again with a list or search tool. |
 | `UPSTREAM_UNKNOWN`, or a timeout after a change was sent | The change may have been saved. Read the current state before doing anything else, and do not resend the change. |
-| `UPSTREAM_REJECTED` | DSers refused the change. Report the message; do not retry automatically. |
 | Any other code | Retry once only if `retryable` is true; otherwise tell the user what failed, using the message. |
 
 Some results come back with part of the data missing, for example a `degraded_parts` or `failed_sources` field, or one supplier platform failing while others answer. Use what came back, say what is missing, and do not repeat the whole call.

@@ -61,7 +61,7 @@ You never paste a password or API key into Claude. Check the connection with a r
 
 - A DSers account. [Sign up](https://accounts.dsers.com/accounts/register?utm_source=claude_plugin&utm_medium=ai_assistant&utm_campaign=dsers_plugin&utm_content=readme)
 - A DSers Advanced, Pro, or Enterprise plan. These plans include MCP Connection; Basic does not ([DSers MCP documentation](https://www.dsers.com/en/mcp-server), [DSers pricing page](https://www.dsers.com/pricing)).
-- At least one Shopify or Wix store connected in DSers, for tasks that touch your store.
+- At least one Shopify or Wix store connected in DSers.
 
 ## Stores and suppliers
 
