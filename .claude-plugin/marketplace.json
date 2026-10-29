@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "claude-dsers-plugin",
+  "description": "The DSers plugin for Claude: DSers MCP and skills for dropshippers.",
+  "owner": {
+    "name": "DSers",
+    "url": "https://www.dsers.com"
+  },
+  "plugins": [
+    {
+      "name": "dsers-dropshipping-automation",
+      "description": "DSers MCP is the official MCP server from DSers for AI-powered dropshipping automation. Connect Claude to DSers and move from product discovery to listings, store operations, orders, fulfillment, and delivery tracking — all in one conversation. The plugin adds skills for the daily work of a dropshipper: finding products and suppliers, cleaning up and publishing listings, checking profit and pricing rules, keeping supplier mapping working, placing supplier orders, and tracking parcels. Works with Shopify and Wix dropship stores connected to DSers and with suppliers on AliExpress, 1688, and Alibaba.com.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "DSers",
+        "url": "https://www.dsers.com"
+      },
+      "homepage": "https://www.dsers.com/en/mcp-server",
+      "repository": "https://github.com/dsers/claude-dsers-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "dsers",
+        "dsers-mcp",
+        "dropshipping",
+        "dropship",
+        "dropshipper",
+        "ecommerce",
+        "mcp",
+        "shopify",
+        "wix",
+        "woocommerce",
+        "ebay",
+        "tiktok-shop",
+        "amazon",
+        "walmart",
+        "big-cartel",
+        "jumpseller",
+        "cartpanda",
+        "square",
+        "ecwid",
+        "bigcommerce",
+        "squarespace",
+        "shopline",
+        "lpqv",
+        "magento",
+        "genstore",
+        "aliexpress",
+        "alibaba",
+        "1688"
+      ]
+    }
+  ]
+}
