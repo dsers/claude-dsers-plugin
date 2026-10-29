@@ -1,13 +1,13 @@
 {
   "name": "dsers-dropshipping-automation",
   "displayName": "DSers Dropshipping Automation",
-  "version": "0.1.0",
-  "description": "DSers MCP is the official MCP server from DSers for AI-powered dropshipping automation. Connect Claude to DSers and move from product discovery to listings, store operations, orders, fulfillment, and delivery tracking — all in one conversation. The plugin adds skills for the daily work of a dropshipper: finding products and suppliers, cleaning up and publishing listings, checking profit and pricing rules, keeping supplier mapping working, placing supplier orders, and tracking parcels. Works with Shopify and Wix dropship stores connected to DSers and with suppliers on AliExpress, 1688, and Alibaba.com.",
+  "version": "0.1.1",
+  "description": "Connect your favorite AI client to DSers and move from product discovery to listings, store operations, orders, fulfillment, and delivery tracking — all in one conversation.",
   "author": {
     "name": "DSers",
     "url": "https://www.dsers.com"
   },
-  "homepage": "https://www.dsers.com/en/mcp-server",
+  "homepage": "https://www.dsers.com",
   "repository": "https://github.com/dsers/claude-dsers-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://www.dsers.com/en/privacy",
