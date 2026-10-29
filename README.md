@@ -1,4 +1,4 @@
-# DSers Dropshipping Automation for Claude
+# DSers
 
 Connect your favorite AI client to DSers and move from product discovery to listings, store operations, orders, fulfillment, and delivery tracking — all in one conversation.
 
